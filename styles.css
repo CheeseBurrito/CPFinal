@@ -1,0 +1,24 @@
+body {
+    padding-top: 75px;
+    font-family: Verdana, Tahoma, sans-serif;
+    background-color: #202528;
+}
+img {
+    padding: 0;
+    max-width: 90%;
+    max-height: 500px;
+    margin: 20px;
+    border-width: 8px;
+    border-style: solid;
+    border-color:#444449;
+}
+h1 {
+    font-size: 100px;
+    margin-bottom: 20px;
+}
+p {
+    font-size: 20px;
+}
+ul {
+    font-size: 20px;
+}
